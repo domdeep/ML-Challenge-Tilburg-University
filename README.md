@@ -17,6 +17,8 @@ After significant feature engineering and hyperparameter tuning, RandomForestReg
 ## Achievements:
 - Top-5 placement in a competition with over 50 teams.
 - Our final model achieved excellent performance metrics and helped us secure a notable leaderboard position.
+- Group Name: **Bladee**
+- Competition Site: Hosted on [Codalab competition platform]([https://competitions.codalab.org/](https://codalab.lisn.upsaclay.fr/competitions/19116?secret_key=9e2695a9-5327-459d-99a1-9b765cd6750b#results))
 
 ## Project Structure
 - **Code**: The repository contains Python code files in Jupyter format.
