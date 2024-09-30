@@ -15,7 +15,7 @@ This was a group project where we trained and tuned several machine learning alg
 After significant feature engineering and hyperparameter tuning, RandomForestRegressor emerged as the best-performing model.
 
 ## Achievements:
-- Top-5 placement in a competition with over 60 teams.
+- Top-5 placement in a competition with over 50 teams.
 - Our final model achieved excellent performance metrics and helped us secure a notable leaderboard position.
 
 ## Project Structure
