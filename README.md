@@ -15,7 +15,7 @@ This was a group project where we trained and tuned several machine learning alg
 After significant feature engineering and hyperparameter tuning, RandomForestRegressor emerged as the best-performing model.
 
 ## Achievements:
-- Achieved **7th place** in a competition with **45 teams**.
+- Achieved **7th place** in a competition with **46 teams**.
 - Our final model achieved excellent performance metrics and helped us secure a notable leaderboard position.
 - Group Name: **Bladee**
 - Competition Site: Hosted on [Codalab competition platform](https://codalab.lisn.upsaclay.fr/competitions/19116?secret_key=9e2695a9-5327-459d-99a1-9b765cd6750b#results)
